@@ -1,0 +1,2 @@
+# LCPLauncher
+Launcher for LCP
